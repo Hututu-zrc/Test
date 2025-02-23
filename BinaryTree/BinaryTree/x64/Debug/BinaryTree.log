@@ -1,0 +1,28 @@
+﻿  BinaryTree.cpp
+E:\Visual Studio\VS Code\cpp_language\BinaryTree\BinaryTree\BinaryTree.h(126,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“BinaryTree.cpp”)
+  E:\Visual Studio\VS Code\cpp_language\BinaryTree\BinaryTree\BinaryTree.h(126,15):
+  模板实例化上下文(最早的实例化上下文)为
+  	E:\Visual Studio\VS Code\cpp_language\BinaryTree\BinaryTree\BinaryTree.cpp(9,19):
+  	查看对正在编译的 类 模板 实例化“BinaryTree<char>”的引用
+  	E:\Visual Studio\VS Code\cpp_language\BinaryTree\BinaryTree\BinaryTree.h(120,7):
+  	在编译 类 模板 成员函数“bool BinaryTree<char>::BinaryTreeComplete(void)”时
+  		E:\Visual Studio\VS Code\cpp_language\BinaryTree\BinaryTree\BinaryTree.cpp(20,2):
+  		请参阅 "test01" 中对 "BinaryTree<char>::BinaryTreeComplete" 的第一个引用
+  
+E:\Visual Studio\VS Code\cpp_language\BinaryTree\BinaryTree\BinaryTree.h(148,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“BinaryTree.cpp”)
+  
+E:\Visual Studio\VS Code\cpp_language\BinaryTree\BinaryTree\BinaryTree.h(103,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“BinaryTree.cpp”)
+  E:\Visual Studio\VS Code\cpp_language\BinaryTree\BinaryTree\BinaryTree.h(103,15):
+  模板实例化上下文(最早的实例化上下文)为
+  	E:\Visual Studio\VS Code\cpp_language\BinaryTree\BinaryTree\BinaryTree.h(97,7):
+  	在编译 类 模板 成员函数“void BinaryTree<char>::BinaryTreeLevelOrder(void)”时
+  		E:\Visual Studio\VS Code\cpp_language\BinaryTree\BinaryTree\BinaryTree.cpp(30,25):
+  		请参阅 "test01" 中对 "BinaryTree<char>::BinaryTreeLevelOrder" 的第一个引用
+  
+E:\Visual Studio\VS Code\cpp_language\BinaryTree\BinaryTree\BinaryTree.h(116,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“BinaryTree.cpp”)
+  
+  BinaryTree.vcxproj -> E:\Visual Studio\VS Code\cpp_language\BinaryTree\x64\Debug\BinaryTree.exe
